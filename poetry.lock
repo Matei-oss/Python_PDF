@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "PDF toolkit"
+name = "pypdf2"
+optional = false
+python-versions = "*"
+version = "1.26.0"
+
+[metadata]
+content-hash = "19cd10dfeab08b6ca4f221dc9df1b847986f994aefb03376f2a4053613ddc756"
+python-versions = "^3.7"
+
+[metadata.hashes]
+pypdf2 = ["e28f902f2f0a1603ea95ebe21dff311ef09be3d0f0ef29a3e44a932729564385"]
